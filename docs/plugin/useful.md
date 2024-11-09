@@ -10,4 +10,4 @@ sidebar_position: 1
 | /spawn | 初期地点にテレポートします。 |
 | /menu | menuを開きます。|
 | /login | ログインできます。|
-| /server サーバー名 | 指定の鯖に  移動することができます。|
+| `/server <server>` | 指定の鯖に  移動することができます。|
