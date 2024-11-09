@@ -7,3 +7,7 @@ sidebar_position: 1
 ## 説明
 
 ![Life](./img/life.png)
+
+::danger
+生活鯖ではトラップタワーの建設が禁じられています。
+:::

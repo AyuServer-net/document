@@ -7,3 +7,5 @@ sidebar_position: 5
 ## 説明
 
 ![Casino](./img/casino.png)
+
+# リニューアル中
