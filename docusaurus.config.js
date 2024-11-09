@@ -94,11 +94,11 @@ const config = {
             items: [
               {
                 label: 'ドキュメント',
-                to: '/docs/intro',
+                to: '/document/docs/intro',
               },
               {
                 label: 'アップデート',
-                to: '/docs/blog',
+                to: '/document/blog',
               }
             ],
           },
