@@ -13,10 +13,10 @@ const config = {
   favicon: 'img/logo.svg',
 
   // Set the production url of your site here
-  url: 'https://ayuserver-net.github.io',
+  url: 'https://docs-dev.ayuserver.net',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/document/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -94,11 +94,11 @@ const config = {
             items: [
               {
                 label: 'ドキュメント',
-                to: '/document/docs/intro',
+                to: '/docs/intro',
               },
               {
                 label: 'アップデート',
-                to: '/document/blog',
+                to: '/blog',
               }
             ],
           },
