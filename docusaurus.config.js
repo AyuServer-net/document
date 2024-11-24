@@ -64,11 +64,10 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'AyuServer Docs',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Server Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -80,7 +79,7 @@ const config = {
           },
           {to: '/blog', label: 'アップデート', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/AyuServer-net/',
             label: 'GitHub',
             position: 'right',
           },
